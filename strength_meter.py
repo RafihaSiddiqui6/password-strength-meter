@@ -691,11 +691,7 @@ with tab2:
         # Create visual strength meter
         create_strength_meter(score)
         
-        # Use this password button
-        if st.button("✅ Use This Password", key="use_generated_btn"):
-            st.session_state.password_input = st.session_state.generated_password
-            st.rerun()
-
+       
 with tab3:
     # Password history section
     st.markdown("### Password History")
