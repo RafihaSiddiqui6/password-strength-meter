@@ -1,15 +1,10 @@
 import streamlit as st
-# import pandas as pd
-# import numpy as np
 from pyzxcvbn import zxcvbn
-# import csv
 import os
 import json
 from fpdf import FPDF
 from datetime import datetime
 import time
-# import base64
-# from PIL import Image
 import io
 import re
 import string
