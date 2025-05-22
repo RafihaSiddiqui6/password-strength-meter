@@ -1,4 +1,4 @@
-# 🔐 IronLock Advanced Password Manager  
+# 🔐 Password Manager  
 ## Your Ultimate Tool for Strong & Secure Passwords  
 
 🚀 **Advanced Password Strength Analyzer & Secure Vault** 🔐  
